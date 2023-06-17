@@ -7,7 +7,7 @@ public class test {
 
 		var str= "test OK 1234";
 
-		System.out.println("test desu!!!!222 :"+str);
+		System.out.println("test desu!!!!22333 :"+str);
 
 	}
 
