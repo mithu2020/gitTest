@@ -6,6 +6,13 @@ public class sub {
         System.out.println("Sub Branch. new!!!");
         System.out.println("Master Branch.");
         System.out.println("Master Branch 22222.");
+        Console.log("Hello DelftStack");
     }
 
+
+    static class Console{
+        public static void log(Object obj) {
+            System.out.println(obj);
+        }
+    }
 }
