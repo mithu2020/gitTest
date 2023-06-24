@@ -7,7 +7,7 @@ public class test2 {
 
 		String str= "test2";
 
-		System.out.println("test2 desu!!!! :"+str);
+		System.out.println("test2 desu2!!!! :"+str);
 
 	}
 
