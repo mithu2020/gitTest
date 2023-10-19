@@ -8,6 +8,7 @@ public class test {
 		String str= "test OK 1234555";
 
 		System.out.println("test desu!!!!22333 :"+str);
+				System.out.println("test desu!!!!22333 :"+str);		System.out.println("test desu!!!!22333 :"+str);
 
 	}
 
